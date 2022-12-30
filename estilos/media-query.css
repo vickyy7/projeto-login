@@ -20,6 +20,7 @@ Grandes telas: acima de 1200px
 
     section#ilogin {
         width: 80vw;
+        height: 280px;
     }
 
     section#ilogin > div#iimg {
