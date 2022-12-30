@@ -47,3 +47,7 @@ section#ilogin > div#iforms {
     display: block;
     padding: 10px;
 }
+
+div#iforms > p {
+    text-align: justify;
+}
