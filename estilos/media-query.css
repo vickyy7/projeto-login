@@ -47,7 +47,7 @@ Grandes telas: acima de 1200px
 
     section#ilogin > div#iimg {
         background-position: center center;
-        float: left;
+        float: right;
         width: 40%;
         height: 100%;
     }
@@ -55,5 +55,13 @@ Grandes telas: acima de 1200px
     section#ilogin > div#iforms {
         float: right;
         width: 59%;
+    }
+
+    div#iforms > h1 {
+        font-size: 1.9em;
+    }
+
+    div#iforms > p {
+        font-size: 1.1em;
     }
 }
