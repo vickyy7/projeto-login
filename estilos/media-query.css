@@ -14,7 +14,21 @@ Grandes telas: acima de 1200px
 */
 
 @media screen and (min-width: 768px) and (max-width: 992px) {
-    
+    section#ilogin {
+        width: 80vw;
+    }
+
+    section#ilogin > div#iimg {
+        background-position: center bottom;
+        float: left;
+        width: 30%;
+        height: 100%;
+    }
+
+    section#ilogin > div#iforms {
+        float: right;
+        width: 70%;
+    }
 }
 
 @media screen and (min-width: 992px) and (max-width: 1200px) {
