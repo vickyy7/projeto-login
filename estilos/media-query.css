@@ -43,7 +43,8 @@ Grandes telas: acima de 1200px
     }
 
     section#ilogin {
-        width: 990px;
+        width: 950px;
+        height: 350px;
     }
 
     section#ilogin > div#iimg {
