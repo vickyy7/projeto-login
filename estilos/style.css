@@ -33,8 +33,8 @@ section#ilogin {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%,-50%);
     overflow: hidden; /* Tudo que tiver fora da borda, vai ficar escondido */
+    transform: translate(-50%,-50%);
 }
 
 section#ilogin > div#iimg {
@@ -87,9 +87,9 @@ div.campo > input {
     border: 0px;
     font-size: 1em;
     width: calc(100% - 45px);
-    transform: translateY(-12px);
     height: 100%;
     padding: 4px;
+    transform: translateY(-12px);
 }
 
 div.campo > input:focus-within {
